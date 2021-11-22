@@ -1,0 +1,15 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-background{
+    background-color:#FEEAE9;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+    
+}
+.btn{
+    background-color: #ff136f;
+}
