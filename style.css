@@ -18,16 +18,17 @@
 .cat1{
     background-image: linear-gradient(to right,rgb(151, 151, 2),orange);
    border-radius: 15px;
-   padding-left: 40px;
+   
 
     
 }
 .cat2{
     background-color: purple;
    
-  padding-left: 40px;
-    
+  
   border-radius: 15px;
+    
+
   
     
 
@@ -36,7 +37,7 @@
   background-image: linear-gradient(to right,royalblue,blue);
   
   border-radius: 15px;
-  padding-left: 40px;
+  
  
   
 
@@ -66,6 +67,7 @@
 }
 .card-footer{
     text-align: center;
+    border-top: none;
 }
 .bags{
     text-align: center;
